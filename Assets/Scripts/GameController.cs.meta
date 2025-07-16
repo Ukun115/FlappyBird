@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86c6134d6a8092544bc6f9ef6959865c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - azarashi: {instanceID: 0}
+  - blocks: {instanceID: 0}
+  - scoreLabel: {instanceID: 0}
+  - stateLabel: {instanceID: 0}
+  - hightScoreLabel: {instanceID: 0}
+  - nowScoreLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
